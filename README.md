@@ -1,10 +1,10 @@
-# NEXUS 2026 - Landing Page
+# Landing Portfolio - Microweb
 
-Landing page para la conferencia de tecnología NEXUS 2026. Proyecto de portfolio creado con Astro + Vanilla JavaScript.
+Landing page de alto impacto visual para portfolio personal. Construido con Astro + Vanilla JavaScript.
 
 ## 🚀 Demo
 
-[Ver demo](https://nexus-2026.vercel.app)
+[Ver demo](https://landing-portfolio-pi.vercel.app)
 
 ## 🛠️ Tech Stack
 
