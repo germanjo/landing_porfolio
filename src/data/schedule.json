@@ -1,0 +1,134 @@
+[
+  {
+    "day": "Day 1",
+    "date": "June 15, 2026",
+    "sessions": [
+      {
+        "time": "08:00",
+        "title": "Registration & Welcome Coffee",
+        "speakerId": null,
+        "description": "Check-in, grab your badge, and network with fellow attendees."
+      },
+      {
+        "time": "09:00",
+        "title": "Opening Keynote: The Future is Now",
+        "speakerId": "speaker-1",
+        "description": "Dr. Elena Rodriguez explores how AI is reshaping every industry and what it means for the next generation of innovators."
+      },
+      {
+        "time": "10:30",
+        "title": "Coffee Break & Networking",
+        "speakerId": null,
+        "description": "Connect with speakers and fellow attendees."
+      },
+      {
+        "time": "11:00",
+        "title": "Quantum Computing: From Theory to Practice",
+        "speakerId": "speaker-2",
+        "description": "Marcus Chen demonstrates real-world quantum computing applications that are transforming enterprise today."
+      },
+      {
+        "time": "12:30",
+        "title": "Lunch Break",
+        "speakerId": null,
+        "description": "Gourmet lunch provided with opportunities for networking."
+      },
+      {
+        "time": "14:00",
+        "title": "Building for Scale: Cloud Architecture Masterclass",
+        "speakerId": "speaker-3",
+        "description": "Sarah Williams shares battle-tested patterns for building resilient, scalable systems."
+      },
+      {
+        "time": "15:30",
+        "title": "Afternoon Break",
+        "speakerId": null,
+        "description": "Refreshments and informal discussions."
+      },
+      {
+        "time": "16:00",
+        "title": "Panel: Investing in Deep Tech",
+        "speakerId": "speaker-4",
+        "description": "Dr. James Okonkwo joins industry leaders to discuss the future of deep tech investment."
+      },
+      {
+        "time": "17:30",
+        "title": "Day 1 Closing Remarks",
+        "speakerId": null,
+        "description": "Summary and preview of Day 2."
+      },
+      {
+        "time": "18:00",
+        "title": "Welcome Reception",
+        "speakerId": null,
+        "description": "Evening networking event with drinks and appetizers."
+      }
+    ]
+  },
+  {
+    "day": "Day 2",
+    "date": "June 16, 2026",
+    "sessions": [
+      {
+        "time": "08:30",
+        "title": "Morning Coffee & Networking",
+        "speakerId": null,
+        "description": "Start the day with fresh coffee and new connections."
+      },
+      {
+        "time": "09:00",
+        "title": "Human-Centered Design in the AI Era",
+        "speakerId": "speaker-5",
+        "description": "Aisha Patel explores how to maintain humanity in an increasingly automated world."
+      },
+      {
+        "time": "10:30",
+        "title": "Coffee Break",
+        "speakerId": null,
+        "description": "Quick break to recharge."
+      },
+      {
+        "time": "11:00",
+        "title": "Zero Trust Security for AI Systems",
+        "speakerId": "speaker-6",
+        "description": "Carlos Mendez presents a comprehensive framework for securing AI-powered infrastructure."
+      },
+      {
+        "time": "12:30",
+        "title": "Lunch & Learn: Lightning Talks",
+        "speakerId": null,
+        "description": "Five-minute presentations from selected attendees."
+      },
+      {
+        "time": "14:00",
+        "title": "Workshop: Hands-on AI Prototyping",
+        "speakerId": "speaker-1",
+        "description": "Interactive workshop where participants build their first AI prototype."
+      },
+      {
+        "time": "15:30",
+        "title": "Afternoon Break",
+        "speakerId": null,
+        "description": "Last chance for refreshments."
+      },
+      {
+        "time": "16:00",
+        "title": "Fireside Chat: The Next Decade of Tech",
+        "speakerId": "speaker-2",
+        "description": "Intimate conversation about where technology is heading in the next 10 years."
+      },
+      {
+        "time": "17:00",
+        "title": "Closing Keynote: Building Tomorrow Together",
+        "speakerId": "speaker-4",
+        "description": "Inspiring closing remarks on collaboration and the collective future."
+      },
+      {
+        "time": "17:30",
+        "title": "Closing Ceremony & Awards",
+        "speakerId": null,
+        "description": "Official closing, awards presentation, and final networking."
+      }
+    ]
+  }
+]

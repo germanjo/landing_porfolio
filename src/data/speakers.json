@@ -1,0 +1,50 @@
+[
+  {
+    "id": "speaker-1",
+    "name": "Dr. Elena Rodriguez",
+    "role": "AI Research Director",
+    "company": "NeuralTech Labs",
+    "image": "/images/speakers/elena-rodriguez.jpg",
+    "bio": "Pioneer in generative AI models with over 15 years of experience in machine learning research. Led groundbreaking projects in natural language processing."
+  },
+  {
+    "id": "speaker-2",
+    "name": "Marcus Chen",
+    "role": "Founder & CEO",
+    "company": "Quantum Dynamics",
+    "image": "/images/speakers/marcus-chen.jpg",
+    "bio": "Serial entrepreneur who has built three successful tech startups. Expert in quantum computing applications for enterprise solutions."
+  },
+  {
+    "id": "speaker-3",
+    "name": "Sarah Williams",
+    "role": "VP of Engineering",
+    "company": "CloudScale Inc",
+    "image": "/images/speakers/sarah-williams.jpg",
+    "bio": "Cloud architecture expert specializing in distributed systems. Speaker at 50+ international tech conferences."
+  },
+  {
+    "id": "speaker-4",
+    "name": "Dr. James Okonkwo",
+    "role": "Chief Innovation Officer",
+    "company": "FutureTech Ventures",
+    "image": "/images/speakers/james-okonkwo.jpg",
+    "bio": "Former NASA researcher turned venture capitalist. Focuses on bridging academic innovation with commercial applications."
+  },
+  {
+    "id": "speaker-5",
+    "name": "Aisha Patel",
+    "role": "Head of Product",
+    "company": "NeuroLink",
+    "image": "/images/speakers/aisha-patel.jpg",
+    "bio": "Product leader with expertise in brain-computer interfaces. Passionate about human-centered design in emerging technologies."
+  },
+  {
+    "id": "speaker-6",
+    "name": "Carlos Mendez",
+    "role": "Security Architect",
+    "company": "CyberShield",
+    "image": "/images/speakers/carlos-mendez.jpg",
+    "bio": "Cybersecurity veteran who has protected Fortune 500 companies. Author of 'Zero Trust in the AI Age'."
+  }
+]
